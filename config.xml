@@ -14,6 +14,5 @@ Trabajo final Catalogo de Servicios
 JESUS ERNESTO MARCHENA SANCHEZ 
 </author>
 <icon src="img/icon.png" />
-<plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
 <access origin="*" browserOnly="true" />
 </widget>
